@@ -1,0 +1,22 @@
+# Tile and computation cache
+.tile_cache/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large generated video outputs (render locally with main.py / main_gpu.py)
+*.mp4
+*.m4v
+*.avi
+*.mov
+*.mkv
+
+# Environments
+venv/
+.venv/
+env/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
